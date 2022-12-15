@@ -1,34 +1,15 @@
 
-  <h3 align="center">YT2Video</h3>
+  <h3 align="center">cod1ng_now</h3>
 
   <p align="center">
     Convert and download all YouTube videos to high quality .mp4 files, by just inputting the url.
     <br />
-    <a href="https://yt2video.herokuapp.com/">View a Demo</a>
     ·
-    <a href="https://github.com/miguelcamposfernandes/yt2video/issues">Report Bug</a>
+    <a href="https://github.com/cod1ng-now/youtube-video-downloader-flask">Report Bug</a>
     ·
-    <a href="https://github.com/miguelcamposfernandes/yt2video/issues">Request Feature</a>
   </p>
 </p>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
 
 
 
@@ -47,7 +28,7 @@ This project was developed with the following frameworks:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/miguelcamposfernandes/yt2video.git
+   git clone https://github.com/cod1ng-now/youtube-video-downloader-flask.git
    ```
 2. Create a virtual enviroment
    ```sh
@@ -79,12 +60,5 @@ This project was developed with the following frameworks:
 <!-- CONTACT -->
 ## Contact
 
-E-Mail - miguelfernandes.personal@gmail.com
+E-Mail - cod1ng_now@bk.ru
 
-My GitHub: [https://github.com/miguelcamposfernandes](https://github.com/miguelcamposfernandes)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Heroku: Cloud Application Platform](https://www.heroku.com)
